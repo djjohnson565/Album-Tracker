@@ -1,4 +1,4 @@
-# 💿 Album-Tracker
+# 💿 Album-Tracker [MAKE A COPY OF ME!](https://docs.google.com/spreadsheets/d/1OEY8XzBXkchjrP_uRs8bLQuyihuDyMn_Ib1NR_rP_YU/edit?usp=sharing)
 
 Album-Tracker helps you keep track of all the music you promise you will "get around to one day"!
 
