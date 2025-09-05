@@ -1,4 +1,4 @@
-# 🎵 Album-Tracker
+# 💿 Album-Tracker
 
 Album-Tracker helps you keep track of all the music you promise you will "get around to one day"!
 
