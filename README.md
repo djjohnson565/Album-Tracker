@@ -32,8 +32,8 @@ The tracker will actively track the percentage of albums you have listened to ba
 3. Click the teal "UPDATE" button to initialize the script
 4. A pop up will say "Authorization required" hit "OK"
 5. In the next window, select the same Google account you are currently using the spreadsheet with
-6. There will be a notice that says "Google hasn't verified this app", this app is completely independent google account and is not connected to any servers and does not collect any of your data (please feel free to check the source code to double check!). This notice is mainly to let the code run alongside the app, it just isn't verified, nor needs to be verified
-7. Hit the "Advanced" text on the bottom left and then "Go to Albums Scripts (unsafe)" (I promise it is safe)
+6. There will be a notice that says "Google hasn't verified this app", this app is completely independent to your Google account and is not connected to any servers, (please feel free to check the source code to double check!). This notice is mainly to let the code run alongside the app, it just isn't verified, nor needs to be verified. Please proceed with caution when trusting code from unknown sources on the internet
+7. Hit the "Advanced" text on the bottom left and then "Go to Albums Scripts (unsafe)" - The unsafe marker is there because the script is not verified
 8. Click "Select all" for what it can access, and continue
 > [!WARNING]
 > Please note that if you modify the script it may make unwanted edits to your Google documents including the Album-Tracker
