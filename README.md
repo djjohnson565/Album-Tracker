@@ -21,3 +21,20 @@ All you need to manually input is what albums you would like to listen to. The d
 ## 🎹 What kind of automations does it have?
 
 The tracker will actively track the percentage of albums you have listened to based on the checks to amount of albums there are. By default, it is set to update the list at midnight. When updating, it will sort all albums top to bottom from newest to latest release date, place a "to be released" line for future albums, reset the daily progress boxes, keep a counter of how many albums are celebrating their anniversary today, keep a counter of how many albums you are behind on to a set date, and update your completed artists list!
+
+## ⚙️ Setup Instructions
+
+> [!NOTE]
+> All you need is a Google account to get started, follow the instructions to get ready!
+
+1. Click the link at the top of the README or [HERE](https://docs.google.com/spreadsheets/d/1OEY8XzBXkchjrP_uRs8bLQuyihuDyMn_Ib1NR_rP_YU/edit?usp=sharing)
+2. Click on "File" > "Make a copy" and then name it whatever you want
+3. Click the teal "UPDATE" button to initialize the script
+4. A pop up will say "Authorization required" hit "OK"
+5. In the next window, select the same Google account you are currently using the spreadsheet with
+6. There will be a notice that says "Google hasn't verified this app", this app is completely independent google account and is not connected to any servers and does not collect any of your data (please feel free to check the source code to double check!). This notice is mainly to let the code run alongside the app, it just isn't verified, nor needs to be verified
+7. Hit the "Advanced" text on the bottom left and then "Go to Albums Scripts (unsafe)" (I promise it is safe)
+8. Click "Select all" for what it can access, and continue
+> [!WARNING]
+> Please note that if you modify the script it may make unwanted edits to your Google documents including the Album-Tracker
+9. The script is all setup! Please follow the instructions in the spreadsheet to explore and happy listening!
