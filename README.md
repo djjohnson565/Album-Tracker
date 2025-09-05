@@ -16,7 +16,7 @@ Album-Tracker uses the [MusicBrainz API](https://musicbrainz.org/doc/MusicBrainz
 
 ## 🥁This seems like a lot of maintenence, won't this be time consuming to keep track of?
 
-All you need to manually input is what albums you would like to listen to. The default tracker already comes equipped with lots of popular artists amongst many genres, but feel free to add anything you want!
+All you need to manually input is what albums you would like to listen to. The default tracker already comes equipped with lots of popular artists amongst many genres, but feel free to add anything you want! The initial setup should take no longer than 5 minutes.
 
 ## 🎹 What kind of automations does it have?
 
