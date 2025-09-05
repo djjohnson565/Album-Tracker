@@ -20,4 +20,4 @@ All you need to manually input is what albums you would like to listen to. The d
 
 ## 🎹 What kind of automations does it have?
 
-The tracker will actively track the percentage of albums you have listened to based on the checks to amount of albums there are. By default, it is set to update the list at midnight. When updating, it will sort all albums top to bottom from newest to latest release date, place a "to be released" line for future albums, reset the daily progress boxes, keep a counter of how many albums are celebrating their anniversary today, and update your completed artists list!
+The tracker will actively track the percentage of albums you have listened to based on the checks to amount of albums there are. By default, it is set to update the list at midnight. When updating, it will sort all albums top to bottom from newest to latest release date, place a "to be released" line for future albums, reset the daily progress boxes, keep a counter of how many albums are celebrating their anniversary today, keep a counter of how many albums you are behind on to a set date, and update your completed artists list!
