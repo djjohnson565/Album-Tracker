@@ -47,3 +47,7 @@ The tracker will actively track the percentage of albums you have listened to ba
 4. On the bottom right select "Add Trigger"
 5. The function will be "customDailyReset", deployment:"Head", event source:"Time-driven", type:"Day timer", time:"Midnight to 1 am", you can optionally choose for it to send you a notice if the trigger fails
 6. Click Save
+
+## 🎙 About the project
+
+This started as a simple check off list for albums people have recommended to me, but that I would always put off or forget about. I also wanted to visibly see what I have listened to from all my favorite artists all in once page, something that is a little hard to track on streaming services, and expensive to track if you only listen to physical media. In 2023 I wanted to make this to make listening to new music easier. Overtime it has evolved to what it is today, and there are some features still in the works that I am still experimenting on that I would love to implement in the near future. This tool has helped me listen to 800+ albums and keep track of when new releases are dropping. I am happy to publically share the first official release of this today on 9/5/2025 so that everyone else can get to listening!
