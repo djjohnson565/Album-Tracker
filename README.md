@@ -38,3 +38,12 @@ The tracker will actively track the percentage of albums you have listened to ba
 > [!WARNING]
 > Please note that if you modify the script it may make unwanted edits to your Google documents including the Album-Tracker
 9. The script is all setup! Please follow the instructions in the spreadsheet to explore and happy listening!
+
+## ☀️ Daily Update
+
+1. Once the spreadsheet is setup, you can make it automatically update each day!
+2. Hit "Extensions" > "Apps Script"
+3. On the new tab lefthand side hit "Triggers"
+4. On the bottom right select "Add Trigger"
+5. The function will be "customDailyReset", deployment:"Head", event source:"Time-driven", type:"Day timer", time:"Midnight to 1 am", you can optionally choose for it to send you a notice if the trigger fails
+6. Click Save
